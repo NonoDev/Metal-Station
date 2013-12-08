@@ -1,0 +1,73 @@
+html
+{
+	background: url(paginas/images/fondo.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: 'Damion';
+}
+
+h1
+{
+	padding: 0;
+	color: whitesmoke;
+	text-align: center;
+	margin-top: 80px;
+	font-size: 120px;
+	margin-bottom: 0;
+	text-shadow: 2px 2px #000;
+}
+
+p
+{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 150px;
+	font-size: 35px;
+	color: whitesmoke;
+	text-shadow: 2px 2px #000;
+}
+div
+{
+	width: 170px;
+	border-radius: 3px;
+	background-color: red;
+	padding: 15px;
+	margin: 0 auto;
+	margin-bottom: 100px;
+}
+
+div a
+{
+	text-decoration: none;
+	color: whitesmoke;
+	margin-left: 28px;
+	display: block;
+	font-size: 35px;
+	text-shadow: 2px 2px rgba(5,5,5,0.7);
+}
+
+div:hover
+{
+	box-shadow: 1px 1px 1px 1px whitesmoke;
+	-webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1));         
+    transform: scale(1.1);
+       
+                -webkit-transition: all 200ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
+                -moz-transition: all 200ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
+                -ms-transition: all 200ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
+                -o-transition: all 200ms cubic-bezier(0.250, 0.460, 0.450, 0.940);
+                transition: all 200ms cubic-bezier(0.250, 0.460, 0.450, 0.940); /* easeOutQuad */
+}
+
+footer
+{
+	color: white;
+	position: fixed;
+	bottom: 4%;
+	left: 42%;
+}
