@@ -1,0 +1,56 @@
+#trianglePath1 {
+    fill: #222;
+    stroke: #222;
+} 
+
+#trianglePath2 {
+    fill: #000;
+    stroke: #000;
+}
+
+#trianglePath11
+{
+	fill: #111;
+    stroke: #111
+}
+
+#mediaLuna
+{
+	background-color: #222;
+}
+
+#clouds
+{
+	fill: white;
+	background-color: #111;
+}
+#nubes
+{
+	background-color: white;
+}
+#claro
+{
+	background-color: #222;
+}
+
+
+#oscuro
+{
+	background-color: #111;
+}
+#oscuro h2, #oscuro article
+{
+	float: right;
+}
+#final
+{
+	background-color: white;
+}
+#final h1
+{
+	font-family: 'Lato';
+	color: #444;
+	font-size: 60px;
+	margin: 20px 0 60px 0;
+	text-shadow: 0 0;
+}

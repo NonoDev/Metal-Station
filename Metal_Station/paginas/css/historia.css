@@ -1,0 +1,104 @@
+h2
+{
+	text-align: center;
+	font-family: 'Lato';
+	font-size: 40px;
+	color: white;
+	text-shadow: -1px 0px 12px rgba(71, 108, 255, 1);
+}
+
+div
+{
+	padding: 40px; 
+
+}
+
+p
+{
+	padding: 30px;
+	text-align: justify;
+	color: white;
+	font-family: 'Open Sans';
+	font-size: 15px;
+}
+
+#imagen1
+{
+	background: url(../images/historia1.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 350px;
+	-webkit-box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+	box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+}
+
+#imagen2
+{
+	background: url(../images/historia2.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 350px;
+	-webkit-box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+}
+
+#imagen3
+{
+	background: url(../images/historia3.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 350px;
+	-webkit-box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+}
+
+#imagen4
+{
+	background: url(../images/historia4.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 350px;
+	-webkit-box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+box-shadow: inset 0px 28px 36px 0px rgba(0,0,0,0.75);
+}
+
+#final
+{
+
+}
+
+#menu-enlaces-derecha
+{
+	height: 100px;
+	width: 30px;
+	position: fixed;
+	top: 50%;
+	right: -30px;
+	
+}
+
+#menu-enlaces-derecha li a 
+{
+	
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	border: 1px solid white;
+}
+
+#menu-enlaces-derecha li a:hover
+{
+	background-color: white;
+}

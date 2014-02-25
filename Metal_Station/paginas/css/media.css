@@ -1,0 +1,170 @@
+.pre-caption
+{
+	height: 40%;
+	width: 25%;
+	margin: -6% 4% 4% 4%;
+	border: red;
+	float: left;
+	background-color: #111;
+}
+
+.caption
+{
+	position: relative;
+	width: 100%;
+	height: 70%;
+	top: 110px;
+	box-shadow: 2px 2px 4px 3px rgba(1, 1, 1, 0.2);
+	-webkit-transition: -webkit-transform 0.2s;
+    -moz-transition: -moz-transform 0.2s;
+    transition: transform 0.2s;
+}
+
+.caption:hover
+{
+	 -webkit-transform: translateY(-120px);
+    -moz-transform: translateY(-120px);
+    -ms-transform: translateY(-120px);
+    transform: translateY(-120px);
+}
+p
+{
+	color: white;
+	text-align: center;
+	margin: 0;
+	width: 100%;
+	padding: 0:;
+	font-family: 'Lato';
+	font-weight: bold;
+	font-size: 22px;
+	text-shadow: -1px 0px 12px rgba(71, 108, 255, 0.7);
+}
+
+audio
+{
+	width: 100%;
+}
+
+h2
+{	
+	text-align: center;
+	margin: 0 auto;
+	font-size: 45px;
+	color: white;
+	width: 45%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-family: 'Lato';
+	text-shadow: -1px 0px 12px rgba(71, 108, 255, 1);
+}
+#container
+{
+	width: 90%;
+	margin: 0 auto;
+	margin-top: 8%;
+	height: 1500px;
+}
+
+#grupo1
+{
+	background: url(../images/media/dawn.jpg) no-repeat center center ;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#grupo2
+{
+	background: url(../images/media/metallica.jpg) no-repeat center center;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}
+#grupo3
+{
+	background: url(../images/media/dio.jpg) no-repeat center center;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}
+#grupo4
+{
+	background: url(../images/media/manowar.jpg) no-repeat center center;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}
+#grupo5
+{
+	background: url(../images/media/hammerfall.jpg) no-repeat center center;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}
+#grupo6
+{
+	background: url(../images/media/iron.jpg) no-repeat center center ;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#grupo7
+{
+	background: url(../images/media/judas.jpg) no-repeat center center;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}
+#grupo8
+{
+	background: url(../images/media/black.jpg) no-repeat center center ;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#grupo9
+{
+	background: url(../images/media/pantera.jpg) no-repeat center center ;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#grupo10
+{
+	background: url(../images/media/motor.jpg) no-repeat center center ;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#grupo11
+{
+	background: url(../images/media/scorpions.jpg) no-repeat center center ;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	
+}
+#grupo12
+{
+	background: url(../images/media/deep.jpg) no-repeat center center ;
+	-webkit-background-size: cover; 
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
